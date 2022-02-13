@@ -1,0 +1,27 @@
+body {
+    font: 20px Arial, bold;
+}
+.navbar {
+    background-color: #C1FFFE;
+}
+.trabalhe-conosco {
+    background-color: #00cac7;
+    color: white;
+}
+.margin {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.contato {
+    background-color: #009e9b;
+    ;
+    color: white;
+}
+.historia {
+    background-color: #008684;
+    color: white;
+}
+.bg-footer {
+    background-color: black;
+    color: white;
+}
